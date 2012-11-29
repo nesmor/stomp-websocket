@@ -1,7 +1,7 @@
-pkg
-.settings
-bin
-data
-dist/test
-TODO.txt
-node_modules
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
